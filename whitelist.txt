@@ -313,8 +313,8 @@
 # Reddit
 @@||reddit.com^$important
 # WhatsApp
-@@||whatsapp.net^
-@@||whatsapp.com^
+@@||whatsapp.net^$important
+@@||whatsapp.com^$important
 # Tidal
 @@||sp-ad-fa.audio.tidal.com^$important
 @@||vb-ad-fa.video.tidal.com^$important
