@@ -318,18 +318,5 @@
 # Tidal
 @@||sp-ad-fa.audio.tidal.com^$important
 @@||vb-ad-fa.video.tidal.com^$important
-@@||www.pinterest.de^$important
-@@||ct.pinterest.com^$important
-@@||v.pinimg.com^$important
-@@||s.pinimg.com^$important
-@@||i.pinimg.com^$important
-@@||web.whatsapp.com^$important
-@@||de.linkedin.com^$important
-@@||www.linkedin.com^$important
-@@||static.licdn.com^$important
-@@||faq.whatsapp.com^$important
-@@||responder.wt-safetag.com^$important
-@@||e9.whatsapp.net^$important
-@@||media-frt3-2.cdn.whatsapp.net^$important
-@@||g.whatsapp.net^$important
+
 
