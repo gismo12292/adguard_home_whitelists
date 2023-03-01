@@ -57,3 +57,4 @@
 @@||datenspende.und-gesund.de^$important
 # German Corona Warn App
 @@||svc90.main.px.t-online.de^$important
+@@||ixxx.com^$important
