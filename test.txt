@@ -1,6 +1,7 @@
 # Whatsapp
 @@||*.whatsapp.com^$important
 @@||*.whatsapp.net^$important
+@@||web.whatsapp.com^$important
 # Youtube
 @@||s.youtube.com^$important
 @@||s2.youtube.com^$important
