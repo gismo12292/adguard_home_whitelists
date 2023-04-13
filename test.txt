@@ -59,7 +59,10 @@
 @@||svc90.main.px.t-online.de^$important
 @@||ixxx.com^$important
 @@||linkedin.com^$important
+# twitter
 @@||*.twimg.com^$important
+@@||*.twitter.com^$important
+
 @@||go.creaform3d.com^$important
 
 
