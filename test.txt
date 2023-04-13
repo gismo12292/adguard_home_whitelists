@@ -1,4 +1,8 @@
 # Whatsapp
+@@||whatsapp.net^$important
+@@||pps.whatsapp.net^$important
+@@||e2.whatsapp.net^$important
+@@||g.whatsapp.net^$important
 @@||web.whatsapp.com^$important
 @@||dit.whatsapp.net^$important
 @@||whatsapp.net^$important
