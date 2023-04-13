@@ -58,8 +58,8 @@
 @@||ixxx.com^$important
 @@||linkedin.com^$important
 # twitter
-@@||*.twimg.com^$important
-@@||*.twitter.com^$important
+@@||twimg.com^$document,important
+@@||twitter.com^$document,important
 
 @@||go.creaform3d.com^$important
 
