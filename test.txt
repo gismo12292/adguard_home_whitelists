@@ -1,15 +1,6 @@
-@@||whatsapp.net^$important
-@@||de.ancensored.com^
-@@||celebsroulette.com^$important
-@@||chaturbate.com^$important
-@@||pps.whatsapp.net^$important
-@@||e2.whatsapp.net^$important
-@@||g.whatsapp.net^$important
-@@||web.whatsapp.com^$important
-@@||dit.whatsapp.net^$important
-@@||whatsapp.net^$important
-@@||media-frt3-2.cdn.whatsapp.net^$important
-@@||e2.whatsapp.net^$important
+# Whatsapp
+@@||*.whatsapp.com^$important
+@@||*.whatsapp.net^$important
 # Youtube
 @@||s.youtube.com^$important
 @@||s2.youtube.com^$important
